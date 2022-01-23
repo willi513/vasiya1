@@ -1,0 +1,18 @@
+/*
+Theme Name: Understrap Child
+Theme URI: https://understrap.com
+Template: understrap
+Author: Howard Development &amp; Consulting
+Author URI: https://howarddc.com
+Description: The renowned WordPress starter theme framework that combined Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
+Tags: one-column,two-columns,three-columns,left-sidebar,right-sidebar,custom-background
+Version: 1.1.0.1642525890
+Updated: 2022-01-18 20:11:30
+
+*/
+
+
+
+@charset "utf-8";.w-100{width:100%}.h-100{height:100%}.d-block{display:block}.d-none{display:none}.image{display:block;margin:0 auto}.d-flex{display:-ms-flexbox;display:-webkit-flex;display:flex}.f-row{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row}.f-wrap{-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.f-nowrap{-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap}.f-column{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}.justify-between{-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}.justify-around{-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}.justify-center{-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.align-center{-webkit-align-items:center;-ms-flex-align:center;align-items:center}.lh118{line-height:1.18}.f-item-base{-webkit-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto}.py-5{padding-top:3rem;padding-bottom:3rem}.pb-5{padding-bottom:3rem}.uppercase{text-transform:uppercase}.table-responsive{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;-ms-overflow-style:-ms-autohiding-scrollbar}.card{position:relative;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;min-width:0;word-wrap:break-word;background-color:#fff;background-clip:border-box;border:1px solid rgba(0,0,0,0.125);border-radius:.25rem}.card>hr{margin-right:0;margin-left:0}.mytabl tbody{width:100%;display:block}.mytabl tr{width:100%}.mytabl td{width:50%}.mytabl td:last-child{text-align:right}.section-1{padding:100px 0;border-bottom:2px solid #f3f3f3}.section-1 h2{display:block;width:100%;margin-bottom:40px}.section-1-item{margin-bottom:30px;width:100%;max-width:380px;padding:0 10px}.section-1-item-mini{margin-bottom:30px;width:100%;max-width:350px;padding:0 10px}
+
+
